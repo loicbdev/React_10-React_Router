@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+}
+
+ul * {
+  margin: 10px;
+}
